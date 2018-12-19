@@ -20,6 +20,7 @@ public:
     void SetCameraNumber(int n);
     void ShowWindowWithStream();
     Mat GetPhoto();
+
 };
 
 #endif //OCV_SKETCH_OCVCAMERA_H
